@@ -1,0 +1,1 @@
+CYAN: str = "#20EBFA"

@@ -1,2 +1,3 @@
-# animations
+# Animations
+
 Animations in Manim
